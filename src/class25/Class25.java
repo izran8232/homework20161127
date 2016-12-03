@@ -239,7 +239,7 @@ public class Class25 {
 	}
 	
 	private static void ArrayDequeClass(){
-		System.out.println("Collections Class example:\n");
+		System.out.println("ArrayDeque Class example:\n");
 		ArrayDeque<String> aq= new ArrayDeque<String>();
 		aq.add("A");
 		aq.add("B");
@@ -316,7 +316,7 @@ public class Class25 {
 	}
 	
 	private static void HashMapClass(){
-		System.out.println("Dictionary Class example:\n");
+		System.out.println("HashMapClass Class example:\n");
 
 
 	      /* This is how to declare HashMap */
